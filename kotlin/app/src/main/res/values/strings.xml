@@ -3,4 +3,6 @@
     <string name="inserir">Inserir</string>
     <string name="nome_do_produto">Nome do produto</string>
     <string name="remover">remover</string>
+    <string name="valor">valor</string>
+    <string name="valor_total" />
 </resources>
